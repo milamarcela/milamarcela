@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=FF69B4&center=true&vCenter=true&lines=Hi+there,+I'm+Mila!+🌸;+¡Hola,+soy+Mila!+🌸" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cute pink cats GIF" />
+  <p align="center">
+  <img src="https://i.ibb.co/jG6r9F4/cute-typing-cat-pink.gif" alt="Cute Pink Anime Typing Cat" width="250">
 </p>
 
 ---
