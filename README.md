@@ -2,17 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=FF69B4&center=true&vCenter=true&lines=Hi+there,+I'm+Mila!+🌸;+¡Hola,+soy+Mila!+🌸" alt="Typing SVG" />
 </p>
 
-  <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTJpaml0cGoyempzZ2ZjM243cXhsb2Jubjk4cWg0aHFibDhjZzdvYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gvfpZrR54qd56/giphy.gif" alt="Cute Pink Anime Typing Cat" width="250">
-</p>
-
 ---
 
 <h3 align="center"> 🎀 Software Engineering Student | Frontend Developer 🎀 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica%20🇨🇷-FFB6C1?style=for-the-badge&logoColor=white" alt="Costa Rica" />
-  <img src="https://img.shields.io/badge/Status-Student%20🎓-FFF0F5?style=for-the-badge&color=FFF0F5&labelColor=FFB6C1&logoColor=white" alt="Student" />
+  <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica%20-FFF0F5?style=for-the-badge&color=FFF0F5&labelColor=818455&logoColor=white" alt="Costa Rica" />
+  <img src="https://img.shields.io/badge/Status-Student%20🎓-FFF0F5?style=for-the-badge&color=FFF0F5&labelColor=818455&logoColor=white" alt="Student" />
 </p>
 
 ---
@@ -60,59 +56,35 @@ As a woman in the tech industry, my mission is to break barriers, bring a unique
 ## 🌸 My Stats / Mis Números
 
 <div align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milamarcela&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <br><br>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milamarcela&theme=buefy&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://ghstats.dev/api/card?username=milamarcela&theme=dracula&show_icons=false&hide_border=true&border_radius=23.5&hide=stars%2Cprs%2Cissues%2Cactive_day%2Cfollowers" alt="GitHub Stats Card" />
 </div>
 
 ---
 
 ## 🎀 Certifications / Certificaciones
-
 <div align="center">
 
-<!-- Computer Hardware Basics -->
 <a href="https://www.credly.com/badges/9c668674-e0ed-4802-9003-e7dcba6ae774" target="_blank">
-  <img src="https://img.shields.io/badge/Cisco-Computer%20Hardware%20Basics-1BA1E2?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Hardware Basics - Cisco">
+  <img src="https://img.shields.io/badge/Computer%20Hardware%20Basics-Cisco-FFF0F5?style=for-the-badge&color=FFF0F5&labelColor=818455&logo=cisco&logoColor=818455" alt="Computer Hardware Basics - Cisco Network Academy">
 </a>
 
 &nbsp;&nbsp;
 
-<!-- Introduction to Data Science -->
+
 <a href="https://www.credly.com/badges/a7b42088-4dd5-40dc-a56d-23cd0e362497" target="_blank">
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Data%20Science-00bceb?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Data Science - Cisco">
+  <img src="https://img.shields.io/badge/Introduction%20to%20Data%20Science-Cisco-FFF0F5?style=for-the-badge&color=FFF0F5&labelColor=818455&logo=cisco&logoColor=818455" alt="Introduction to Data Science - Cisco Network Academy">
 </a>
 
 &nbsp;&nbsp;
 
-<!-- Introduction to IoT -->
+
 <a href="https://www.credly.com/badges/9fb5d153-179e-424b-957d-7e05b026140f" target="_blank">
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-6c5ce7?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to IoT - Cisco">
+  <img src="https://img.shields.io/badge/Introduction%20to%20IoT-Cisco-FFF0F5?style=for-the-badge&color=FFF0F5&labelColor=818455&logo=cisco&logoColor=818455" alt="Introduction to IoT - Cisco Network Academy">
 </a>
 
 </div>
 
----
 
-## 💖 Let's Connect / Conectemos
 
-<div align="center">
 
-<a href="TU_LINKEDIN_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="Email: milabeer95@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iv-s/iv-s/output/github-snake.svg" alt="Snake animation" />
-</p>
