@@ -3,7 +3,7 @@
 </p>
 
   <p align="center">
-  <img src="https://i.ibb.co/jG6r9F4/cute-typing-cat-pink.gif" alt="Cute Pink Anime Typing Cat" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTJpaml0cGoyempzZ2ZjM243cXhsb2Jubjk4cWg0aHFibDhjZzdvYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gvfpZrR54qd56/giphy.gif" alt="Cute Pink Anime Typing Cat" width="250">
 </p>
 
 ---
@@ -11,8 +11,8 @@
 <h3 align="center"> 🎀 Software Engineering Student | Frontend Developer 🎀 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica%20🇨🇷-pink?style=for-the-badge&logo=None" alt="Costa Rica" />
-  <img src="https://img.shields.io/badge/Status-Student%20🎓-pink?style=for-the-badge&logo=None" alt="Student" />
+  <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica%20🇨🇷-FFB6C1?style=for-the-badge&logoColor=white" alt="Costa Rica" />
+  <img src="https://img.shields.io/badge/Status-Student%20🎓-FFF0F5?style=for-the-badge&color=FFF0F5&labelColor=FFB6C1&logoColor=white" alt="Student" />
 </p>
 
 ---
