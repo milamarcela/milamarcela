@@ -66,18 +66,23 @@ As a woman in the tech industry, my mission is to break barriers, bring a unique
 ## 🎀 Certifications / Certificaciones
 
 <div align="center">
-
 <a href="https://www.credly.com/badges/9c668674-e0ed-4802-9003-e7dcba6ae774" target="_blank">
-  <img src="https://images.credly.com/images/a19495ef-97b7-4d1a-8c74-e538f5f8b958/image.png" width="140" alt="Computer Hardware Basics - Cisco">
+  <img src="https://img.shields.io/badge/Cisco-Computer%20Hardware%20Basics-1BA1E2?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Hardware Basics - Cisco">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.credly.com/badges/a7b42088-4dd5-40dc-a56d-23cd0e362497" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Data%20Science-00bceb?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Data Science - Cisco">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.credly.com/badges/9fb5d153-179e-424b-957d-7e05b026140f" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-6c5ce7?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to IoT - Cisco">
 </a>
 
 </div>
-
-<!-- Si tienes más badges, pégalos aquí mismo, uno al lado del otro -->
-
-</div>
-
----
 
 ## 💖 Let's Connect / Conectemos
 
